@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "create an ecommerce api which is used to show all the products and add products and add products quantity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Shubham Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2",
+    "nodemon": "^3.0.1"
+  }
+}
